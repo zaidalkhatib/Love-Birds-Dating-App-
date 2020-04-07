@@ -1,0 +1,120 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+#title {
+    background: #E1F0F1;
+}
+
+#title h1 {
+    font-size: 3.3rem;
+    font-family: 'Alfa Slab One', cursive;
+    word-spacing: 1.2px;
+    line-height: 1.2;
+    padding-top: 70px;
+    color: #21ADB9;
+}
+
+.container-fluid {
+    padding: 20px 50px;
+}
+
+.row button {
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.btn {
+    width: 140px;
+}
+
+.iphone6img {
+    padding: 50px 20px;
+    width: 250px;
+    transform: rotate(20deg);
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    padding: 0;
+    font-family: 'Comic Neue', cursive;
+}
+
+.navbar {
+    font-size: 1.2rem;
+}
+
+.nav-item {
+    margin: 17px;
+}
+
+#features {
+    padding: 10% 15%;
+}
+
+.row {
+    text-align: center;
+}
+
+.feature-box {
+    padding-top: 60px;
+}
+
+.icon {
+    margin-bottom: 20px;
+    color: #21ADB9;
+}
+
+.icon:hover {
+    color: lightblue;
+}
+
+#testimonials {
+    background-color: #E1F0F1;
+    text-align: center;
+    color: #21ADB9;
+}
+
+#testimonials h2 {
+    font-size: 3.3rem;
+    font-family: 'Alfa Slab One', cursive;
+    word-spacing: 1.2px;
+    line-height: 1.2;
+    padding-top: 70px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.girl-img {
+    width: 90px;
+    border-radius: 90%;
+    height: 80px;
+    margin-right: 4%;
+}
+
+#pricing {
+    padding: 10% 10%;
+    margin: 10px 60px;
+}
+
+#pricing h3 {
+    color: #21ADB9;
+    font-size: 1.2rem;
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.col-lg-4 {
+    padding: 2% 3%;
+}
+
+footer {
+    text-align: center;
+    font-size: 20px;
+}
+
+.btn-light:hover {
+    background-color: #21ADB9;
+    color: white;
+}
